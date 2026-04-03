@@ -159,7 +159,7 @@ let drums = [
  *                 $ref: '#/components/schemas/Drum'
  */
 app.get('/drums', cors(), (req, res) => {
-  res.json(instruments);
+  res.json(drums);
 });
 
 /**
