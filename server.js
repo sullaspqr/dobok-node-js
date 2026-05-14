@@ -111,28 +111,28 @@ let drums = [
   quantity: 1
 },
 {
-  id: "5fef84f891018,
+  id: "5fef84f891018",
   name: "Sonor SQ1 Birch",
   brand: "Sonor",
   price: 690000,
   quantity: 1
 },
 {
-  id: "5fef84f891019,
+  id: "5fef84f891019",
   name: "Gretsch Renown Maple",
   brand: "Gretsch",
   price: 560000,
   quantity: 1
 },
 {
-  id: "5fef84f891020
+  id: "5fef84f891020",
   name: "Pearl Export EXX",
   brand: "Pearl",
   price: 289000,
   quantity: 1
 },
 {
-  id: "5fef84f891021
+  id: "5fef84f891021",
   name: "Tama Imperialstar",
   brand: "Tama",
   price: 245000,
